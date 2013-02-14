@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<title>Title</title>
+
+<style type="text/css">
+body, td {
+   font-family: sans-serif;
+   background-color: white;
+   font-size: 12px;
+   margin: 8px;
+}
+
+tt, code, pre {
+   font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Lucida Console', Consolas, Monaco, monospace;
+}
+
+h1 { 
+   font-size:2.2em; 
+}
+
+h2 { 
+   font-size:1.8em; 
+}
+
+h3 { 
+   font-size:1.4em; 
+}
+
+h4 { 
+   font-size:1.0em; 
+}
+
+h5 { 
+   font-size:0.9em; 
+}
+
+h6 { 
+   font-size:0.8em; 
+}
+
+a:visited {
+   color: rgb(50%, 0%, 50%);
+}
+
+pre {	
+   margin-top: 0;
+   max-width: 95%;
+   border: 1px solid #ccc;
+   white-space: pre-wrap;
+}
+
+pre code {
+   display: block; padding: 0.5em;
+}
+
+code.r, code.cpp {
+   background-color: #F8F8F8;
+}
+
+table, td, th {
+  border: none;
+}
+
+blockquote {
+   color:#666666;
+   margin:0;
+   padding-left: 1em;
+   border-left: 0.5em #EEE solid;
+}
+
+hr {
+   height: 0px;
+   border-bottom: none;
+   border-top-width: thin;
+   border-top-style: dotted;
+   border-top-color: #999999;
+}
+
+@media print {
+   * { 
+      background: transparent !important; 
+      color: black !important; 
+      filter:none !important; 
+      -ms-filter: none !important; 
+   }
+
+   body { 
+      font-size:12pt; 
+      max-width:100%; 
+   }
+       
+   a, a:visited { 
+      text-decoration: underline; 
+   }
+
+   hr { 
+      visibility: hidden;
+      page-break-before: always;
+   }
+
+   pre, blockquote { 
+      padding-right: 1em; 
+      page-break-inside: avoid; 
+   }
+
+   tr, img { 
+      page-break-inside: avoid; 
+   }
+
+   img { 
+      max-width: 100% !important; 
+   }
+
+   @page :left { 
+      margin: 15mm 20mm 15mm 10mm; 
+   }
+     
+   @page :right { 
+      margin: 15mm 10mm 15mm 20mm; 
+   }
+
+   p, h2, h3 { 
+      orphans: 3; widows: 3; 
+   }
+
+   h2, h3 { 
+      page-break-after: avoid; 
+   }
+}
+
+</style>
+
+
+
+
+
+</head>
+
+<body>
+<h1>Title</h1>
+
+<h2>Define the question</h2>
+
+<p>[ <em>Provide some background information about the research problem under investigation</em> ]</p>
+
+<h3>Objective</h3>
+
+<p>[ <em>What is the purpose of this research endeavor? What are some of the topics to be considered?</em> ]</p>
+
+<h3>Data</h3>
+
+<p>[ <em>Use this section to capture specifics about the sample data being used for this research effort.</em> ]</p>
+
+<h4>Define the ideal data set</h4>
+
+<p>[ <em>Describe the ideal data corpus. Provide pertinent comments and references associated with the idea data set and what may be preventing access to it.</em> ]</p>
+
+<h4>Determine what data you can access</h4>
+
+<p>[ <em>Provide specific references to the sampel data being used for this research effort. Be specific so that attempts to reproduce your work can be achieved. If appropriate and applicable, include references to documentation and/or code books for understanding the schema and variables in your data set.</em> ]</p>
+
+<h2>Getting Started</h2>
+
+<h3>Project Setup</h3>
+
+<p>[ <em>Your research will be comprised of several file artifacts. Organizing your workarea is imperative to reproducible research.</em> ]</p>
+
+<p>[ <em>Outline your project workarea folder structure and provide a description of the purpose of all sub-folders.</em> ]</p>
+
+<h3>Environment Setup</h3>
+
+<p>[ <em>Provide the inline code necessary for setting up your working environment (i.e: working directory, system options, handling of warning messages, etc).</em> ]</p>
+
+<h3>Obtain the data</h3>
+
+<p>[ <em>Provide the inline code necessary for accessing your sample data.</em> ]</p>
+
+<h3>Handle required files and libraries</h3>
+
+<p>[ <em>Provide the inline code necessary for loading any required libraries and other source files to be included. These are dependencies for your reproducible research code. As such, you should call out these dependencies textually as well as within the inline code.</em> ]</p>
+
+<h2>Tidy Data Check</h2>
+
+<p>[ <em>Provide commentary on the compliance of your sample data with respect to Tidy Data requirements: Variables in columns, Observations in rows, Tables holding elements of only one kind, Column names are easy to use and informative, Row names are easy to use and informative, Variable values are internally consistent, Handling of mistakes in the data need, Addition of transformed variables.</em> ]</p>
+
+<h3>Remove noise</h3>
+
+<p>[ <em>Provide the inline code necessary for removing missing or dirty data.</em> ]</p>
+
+<p><strong>Observation</strong>: 
+[ <em>Provide the reasoning behind the existence of the dirty data and any impact it may have to the research. Be sure to include specific details as to the size of the resulting corpus post cleansing as well as the indices of the removed observations.</em> ]</p>
+
+<h2>Extract, Transform and Load (ETL)</h2>
+
+<p>[ <em>Provide step-by-step details for any and all data munging tasks necessary for your research. You may return to this section several times during your iterative exploration. Typically, this phase of your research endeavor addresses the transformation of qualitative data into quantitative format for downstream exploration in the analysis pipeline.</em>]</p>
+
+<h3>Transform 1: field1(string) to filed2(numeric)</h3>
+
+<p>[ <em>Provide the inline code necessary for this ETL task.</em> ]</p>
+
+<p><strong>Action</strong>: 
+[ <em>Provide a description of the transformation and why it was necessary.</em> ]</p>
+
+<h3>Transform 2: field3(string) to filed4(numeric)</h3>
+
+<p>[ <em>Provide the inline code necessary for this ETL task.</em> ]</p>
+
+<p><strong>Action</strong>: 
+[ <em>Provide a description of the transformation and why it was necessary.</em> ]</p>
+
+<h2>Exploratory Data Analysis</h2>
+
+<p>[ <em>Use this section to document your iterative exploration tasks. You should include inline code , observations and follow-on actions for each exploratory question. You may also want to capture follow-on questions that may arise from your observations. Keeping track of follow-on questions, will help your research endeavor to be as exhaustive as possible.</em> ]</p>
+
+<h3>Question 1</h3>
+
+<p>[ <em>Question text</em> ]</p>
+
+<p>[ <em>Provide the inline code necessary for this question. This code should include analytic task as well as code necessary for plot generation.</em> ]</p>
+
+<p><strong>Observation</strong>: 
+[ <em>Describe any findings and insights drawn from any plots.</em> ]</p>
+
+<p><strong>Action</strong>: 
+[ <em>Based on current observations, what do you want to do next and why? Are there follow-on questions that you want to capture and address later?</em> ]</p>
+
+<h3>Question 2</h3>
+
+<p>[ <em>Question text</em> ]</p>
+
+<p>[ <em>Provide the inline code necessary for this question. This code should include analytic task as well as code necessary for plot generation.</em> ]</p>
+
+<p><strong>Observation</strong>: 
+[ <em>Describe any findings and insights drawn from any plots.</em> ]</p>
+
+<p><strong>Action</strong>: 
+[ <em>Based on current observations, what do you want to do next and why? Are there follow-on questions that you want to capture and address later?</em> ]</p>
+
+<h2>Statistical prediction/modeling</h2>
+
+<p>[ <em>Are there any standard statistical modeling processes that you would like to explore? If so, you will need to capture references for how and when such models should be applied as wellas any assumptions you are making.</em> ]</p>
+
+<p>[ <em>Provide the inline code necessary for process modeling that you undertake.</em> ]</p>
+
+<p><strong>Observation</strong>: 
+[ <em>Describe any findings and insights drawn from your statistical modeling.</em> ]</p>
+
+<p><strong>Action</strong>: 
+[ <em>Based on current observations, what do you want to do next and why? Are there follow-on questions that you want to capture and address later?</em> ]</p>
+
+<h2>Interpret results</h2>
+
+<p>[ <em>What conclusions can you make? Are they based on inference or estimates or predictions? You should use this area to synthesize your research effort into very crisp bullets and/or short paragraphs that tell a story as well as provide concreate data points (insights) based on your research.</em> ]</p>
+
+<h2>Challenge results</h2>
+
+<p>[ <em>What are the limitations of your findings? What assumptions did you make? How could your findings be improved? Are there follow-up research opportunities that derive from your work?</em> ]</p>
+
+<h2>References</h2>
+
+<p>[ <em>Use this section to capture and itemize a list of references obtained during your research effort.</em> ]</p>
+
+<h2>Finalize Report</h2>
+
+<p>[ <em>Your reproducible research effort will most likely be accompanied by a written report. Use this section to organize your thoughts based on your work so far and establish an outline for your write-up. General topics that should be considered are: Research Methods (Data Collection, Exploratory Analysis, Statistical Modeling, Reproducibility), Results, Conclusions, References.</em>]</p>
+
+</body>
+
+</html>
+
