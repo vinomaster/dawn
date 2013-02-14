@@ -24,7 +24,7 @@ Guide Details
 
 Acknowledgements
 =============
-The following Coursera instructors from `Johns Hopkins University <https://www.coursera.org/jhu>`_ and co-editors for the `Simply Statistics Blog <http://simplystatistics.org>`_ deserve credit for inspiring the compilation of this guide. Hopefully, this guide may help jump-start their future students.
+The following Coursera instructors and co-editors for the `Simply Statistics Blog <http://simplystatistics.org>`_ deserve credit for inspiring the compilation of this guide. Hopefully, this guide may help jump-start their future students.
 
 * `Jeff Leek  <http://www.biostat.jhsph.edu/~jleek/research.html>`_ 
 * `Roger Peng <http://www.biostat.jhsph.edu/~rpeng/>`_
