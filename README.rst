@@ -8,7 +8,7 @@ Data Analysis Workflow Navigation
 
 Motivation
 ============
-The `analysis of data<http://en.wikipedia.org/wiki/Data_analysis>`_ is a process of inspecting, cleaning, transforming, and modeling data where the objective is may be to discover useful information, suggest conclusions, and/or support decision making. Data analysis has multiple facts and approaches, encompassing diverse techniques under a variety of names, in different business, science, statistical and social science domains. 
+The `analysis of data <http://en.wikipedia.org/wiki/Data_analysis>`_ is a process of inspecting, cleaning, transforming, and modeling data where the objective is may be to discover useful information, suggest conclusions, and/or support decision making. Data analysis has multiple facts and approaches, encompassing diverse techniques under a variety of names, in different business, science, statistical and social science domains. 
 
 Researchers in these domains tend to organize their work differently and produce dissimilar artifacts. Yet each domain researcher is challenged with a very basic and important metric for their research, *time-to-value*:
 * How much time is required to go from problem definition to action insights?
@@ -24,7 +24,7 @@ The benefits of the guides are:
 * Research organization and navigation
 * Reduced time-to-value
 
-The guides included in *dawn* are language and platform neutral. The intent here is to focus on the workflow tasks and observations for a data analysis project. While a guide may be derived from an R markdown file, for example, the content of the guide should be reusable in a variety of interactive analytical tools such as `iClojure<http://www.iclojure.com>`_, `iPython<http://ipython.org>`_, and `iScala<https://github.com/KenCoder/scala-notebook>`_, and `RStudio<http://www.rstudio.com>`_. 
+The guides included in *dawn* are language and platform neutral. The intent here is to focus on the workflow tasks and observations for a data analysis project. While a guide may be derived from an R markdown file, for example, the content of the guide should be reusable in a variety of interactive analytical tools such as `iClojure <http://www.iclojure.com>`_, `iPython <http://ipython.org>`_, and `iScala <https://github.com/KenCoder/scala-notebook>`_, and `RStudio <http://www.rstudio.com>`_. 
 
 Guides
 =========
