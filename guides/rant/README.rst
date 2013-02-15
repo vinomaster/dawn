@@ -5,7 +5,8 @@ Research Analysis Navigation Template
 :Author: Dan Gisolfi
 :Description: A template for performing reproducible research. It is a sample guide within the *Data Analysis Workflow Navigation* repository.
 :Repo Name: `dawn <https://github.com/vinomaster/dawn>`_
-:Guide Name: rant
+:Guide Name: *rant*
+:License: See `dawn License <https://github.com/vinomaster/dawn/LICENSE>`_
 
 Motivation
 ============

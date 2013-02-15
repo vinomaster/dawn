@@ -5,12 +5,13 @@ Data Analysis Workflow Navigation
 :Author: Dan Gisolfi
 :Description: A collection of of research templates for navigating the workflow activities for various types of data analysis projects. 
 :Repo Name: *dawn*
+:License: New BSD, See License file.
 
 Motivation
 ============
 The `analysis of data <http://en.wikipedia.org/wiki/Data_analysis>`_ is a process of inspecting, cleaning, transforming, and modeling data where the objective may be to discover useful information, suggest conclusions, and/or support decision making. Data analysis has multiple facts and approaches, encompassing diverse techniques under a variety of names, in different business, science, statistical and social science domains. 
 
-Researchers in these domains tend to organize their work differently and produce dissimilar artifacts. Yet each domain researcher is challenged with a very basic and important metric, *time-to-value*:
+Researchers in these domains tend to organize their work differently and produce dissimilar artifacts. Yet each domain researcher is challenged with a very basic and important metric, **time-to-value**:
 
 * How much time is required to go from problem definition to action insights?
 * How much time is required to develop and package reproducible research?
@@ -44,6 +45,10 @@ Additionally, guide packages may also incude:
 
 * Sample use cases
 
+License
+==============
+The use and distribution terms for this software are covered by the "New BSD" license which can be found in the file LICENSE at the root of this distribution. By using this software in any fashion, you are agreeing to be bound by the terms of this license. You must not remove this notice, or any other, from this software.
+
 Getting Started
 =============
 
@@ -56,5 +61,6 @@ Data Analyst
 
 Guide Developer
 ---------------------
-Contributors are encouraged to fork the code and send GitHub pull requests.
+Contributors, if in agreeement with the License terms, are encouraged to fork the code and send GitHub pull requests.
+
 
