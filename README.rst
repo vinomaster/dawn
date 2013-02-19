@@ -38,7 +38,7 @@ The following workflow navigation templates are included:
 
 Each guide package contains:
 
-* README.md - Describing purpose of the guide 
+* README.rst - A Restructured Text fiel describing purpose of the guide 
 * <name>_guide.<ext> - The guide template file, where <name> is the name of the guide package and <ext> is the type of file (.txt, .md, etc) 
 
 Additionally, guide packages may also incude:
@@ -62,5 +62,11 @@ Data Analyst
 Guide Developer
 ---------------------
 Contributors, if in agreeement with the License terms, are encouraged to fork the code and send GitHub pull requests.
+
+Epilogue
+=============
+As a designated trail in the woods, these guides mark a path once taken. There is no harm in deviating from an existing guide or in the establishment of a new one. If a guide is only needed to get you started, then the guide has served it's purpose.
+
+*"An investigator starts research in a new field with faith, a foggy idea, and a few wild experiments. Eventually the interplay of negative and positive results guides the work. By the time the research is completed, he or she knows how it should have been started and conducted."*  - `Donald Cram, American Chemist and 1987 Nobel Prize Winner <http://www.brainyquote.com/citation/quotes/quotes/d/donaldcram193831.html?ct=Donald+Cram>`_.
 
 

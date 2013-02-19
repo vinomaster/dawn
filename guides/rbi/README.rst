@@ -1,5 +1,5 @@
 ===========================
-Rapid Business Insights Template
+Rapid Business Insights
 ===========================
 
 :Author: Dan Gisolfi
@@ -11,6 +11,7 @@ Rapid Business Insights Template
 Motivation
 ============
 This guide was inspired by actual customer engagements around situation business problems. Regardless of the problem domain, most situations had the following common attributes:
+
 * The problem was often short-lived.
 * The problem had a significant negative business impact, justifying exploration and action.
 * Time-to-value was imperative. Metric measured from problem identification to solution proposal to business decision to proposal execution.
