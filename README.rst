@@ -38,7 +38,7 @@ The following workflow navigation templates are included:
 
 Each guide package contains:
 
-* README.rst - A Restructured Text fiel describing purpose of the guide 
+* README.rst - A Restructured Text file describing purpose of the guide 
 * <name>_guide.<ext> - The guide template file, where <name> is the name of the guide package and <ext> is the type of file (.txt, .md, etc) 
 
 Additionally, guide packages may also incude:
@@ -61,7 +61,7 @@ Data Analyst
 
 Guide Developer
 ---------------------
-Contributors, if in agreeement with the License terms, are encouraged to fork the code and send GitHub pull requests.
+Contributors, if in agreement with the License terms, are encouraged to fork the code and send GitHub pull requests.
 
 Epilogue
 =============
