@@ -15,7 +15,7 @@ Define the question
 [ *Describe the ideal data corpus. Provide pertinent comments and references associated with the idea data set and what may be preventing access to it.* ]
 
 #### Determine what data you can access
-[ *Provide specific references to the sampel data being used for this research effort. Be specific so that attempts to reproduce your work can be achieved. If appropriate and applicable, include references to documentation and/or code books for understanding the schema and variables in your data set.* ]
+[ *Provide specific references to the sample data being used for this research effort. Be specific so that attempts to reproduce your work can be achieved. If appropriate and applicable, include references to documentation and/or code books for understanding the schema and variables in your data set.* ]
 
 Getting Started
 ----------------
@@ -89,7 +89,7 @@ Exploratory Data Analysis
 
 Statistical prediction/modeling
 ---------------------------------
-[ *Are there any standard statistical modeling processes that you would like to explore? If so, you will need to capture references for how and when such models should be applied as wellas any assumptions you are making.* ]
+[ *Are there any standard statistical modeling processes that you would like to explore? If so, you will need to capture references for how and when such models should be applied as well as any assumptions you are making.* ]
 
 [ *Provide the inline code necessary for process modeling that you undertake.* ]
 
