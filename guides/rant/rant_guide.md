@@ -91,7 +91,7 @@ Statistical prediction/modeling
 ---------------------------------
 [ *Are there any standard statistical modeling processes that you would like to explore? If so, you will need to capture references for how and when such models should be applied as well as any assumptions you are making.* ]
 
-[ *Provide the inline code necessary for process modeling that you undertake.* ]
+[ *Provide the inline code necessary for implementing the statistical model that you will use.* ]
 
 **Observation**: 
 [ *Describe any findings and insights drawn from your statistical modeling.* ]
