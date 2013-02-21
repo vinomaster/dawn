@@ -19,42 +19,40 @@ This collection of templates is intended to aid system assessment activities per
 Guides
 =============
 
-:Guide: Case-based Reasoning Analysis
-:Description: The intent of this system analysis workflow guide is to help 
-    streamline the activities associated with the evaluation of a functional
-    aspect of a software system using a case-based reasoning process. The
-    objective is to produce an assessment report based on an investigation into
-    a specific functional aspect of a software system. The approach the analysis
-    is to model performance on new problems using results from past experiences
-    with similar problems.
-:Markdown File: cbr_guide.md
-
-:Guide: Functional Analysis
-:Description: The intent of this system analysis workflow guide is to help
-    streamline the activities associated with the evaluation of a functional
-    aspect of a software system. The objective is to produce an assessment
-    report based on an investigation into a specific functional aspect of a
-    software system. The approach of the analysis is to model a problem and
-    iterate through possible solution alternativs that will help achieve the
-    functional goals of the system for the subject problem.
-:Markdown File: fa_guide.md
-
-:Guide: Process Assessment
-:Description: The intent of this system analysis workflow guide is to help
-    streamline the activities associated with tuning (improving) a specific
-    software system process. The objective is to produce an assessment report
-    based on an investigation into a specific performance of a process along
-    with reproducible code for future analysis. The approach of the analysis is
-    to identify characteristics of a process bottleneck and to measure possible
-    adjustments to the process that will remove the bottleneck.
-:Markdown File: pa_guide.md    
- 
-:Guide: Regression Test
-:Description: The intent of this system analysis workflow guide is to provide a
-    reusable utility for monitoring and regression testing a specific system
-    process. The objective is to produce reproducible process monitoring code
-    and documentation of the regression analysis.
-:Markdown File: rt_guide.md  
++ Case-based Reasoning Analysis
+    :Description: The intent of this system analysis workflow guide is to help 
+        streamline the activities associated with the evaluation of a functional
+        aspect of a software system using a case-based reasoning process. The
+        objective is to produce an assessment report based on an investigation
+        into a specific functional aspect of a software system. The approach the
+        analysis is to model performance on new problems using results from past
+        experiences with similar problems.
+    :Markdown File: cbr_guide.md
++ Functional Analysis
+    :Description: The intent of this system analysis workflow guide is to help
+        streamline the activities associated with the evaluation of a functional
+        aspect of a software system. The objective is to produce an assessment
+        report based on an investigation into a specific functional aspect of a
+        software system. The approach of the analysis is to model a problem and
+        iterate through possible solution alternativs that will help achieve the
+        functional goals of the system for the subject problem.
+    :Markdown File: fa_guide.md
++ Guide: Process Assessment
+    :Description: The intent of this system analysis workflow guide is to help
+        streamline the activities associated with tuning (improving) a specific
+        software system process. The objective is to produce an assessment               
+        report based on an investigation into a specific performance of a
+        process along with reproducible code for future analysis. The approach
+        of the analysis is to identify characteristics of a process bottleneck    
+        and to measure possible adjustments to the process that will remove the     
+        bottleneck.
+    :Markdown File: pa_guide.md    
++ Regression Test
+    :Description: The intent of this system analysis workflow guide is to
+        provide a reusable utility for monitoring and regression testing a
+        specific system process. The objective is to produce reproducible     
+        process monitoring code and documentation of the regression analysis.
+    :Markdown File: rt_guide.md  
       
 Acknowledgements
 =============
