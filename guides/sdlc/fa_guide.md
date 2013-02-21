@@ -1,6 +1,6 @@
 Functional Analysis Title
 =========================================================
-[ *The intent of this system analysis workflow guide is to help streamline the activities associated with the evaluation of a functional aspect of a software system. The objective is to produce an assessment report based on an investigation into a specific functional aspect of a software system. The approach of the analysis is to model a problem and iterate through possible solution alternativs that will help achieve the functional goals of the system for the subject problem.* ]
+[ *The intent of this system analysis workflow guide is to help streamline the activities associated with the evaluation of a functional aspect of a software system. The objective is to produce an assessment report based on an investigation into a specific functional aspect of a software system. The approach of the analysis is to model a problem and iterate through possible solution alternatives that will help achieve the functional goals of the system for the subject problem.* ]
 
 Hypothesis
 -----------------------
