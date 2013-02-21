@@ -35,11 +35,12 @@ The following workflow navigation templates are included:
 
 * Reproducible Analysis Navigation Template (rant)
 * Rapid Business Insights (rbi)
+* Systems Development Life Cycle (sdlc)
 
 Each guide package contains:
 
 * README.rst - A Restructured Text file describing purpose of the guide 
-* <name>_guide.<ext> - The guide template file, where <name> is the name of the guide package and <ext> is the type of file (.txt, .md, etc) 
+* <name>_guide.<ext> - One or more guide template file, where <name> is the name of the guide and <ext> is the type of file (.txt, .md, etc) 
 
 Additionally, guide packages may also incude:
 
