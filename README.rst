@@ -66,7 +66,7 @@ Contributors, if in agreement with the License terms, are encouraged to fork the
 
 Epilogue
 =============
-As a designated trail in the woods, these guides mark a path once taken. There is no harm in deviating from an existing guide or in the establishment of a new one. If a guide is only needed to get you started, then the guide has served it's purpose.
+As a designated trail in the woods, these guides mark a path once taken. There is no harm in deviating from an existing guide or in the establishment of a new one. If a guide is only needed to get you get started, then the guide has served it's purpose.
 
 *"An investigator starts research in a new field with faith, a foggy idea, and a few wild experiments. Eventually the interplay of negative and positive results guides the work. By the time the research is completed, he or she knows how it should have been started and conducted."*  - `Donald Cram, American Chemist and 1987 Nobel Prize Winner <http://www.brainyquote.com/citation/quotes/quotes/d/donaldcram193831.html?ct=Donald+Cram>`_.
 
