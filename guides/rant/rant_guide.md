@@ -64,6 +64,8 @@ Exploratory Data Analysis
 ----------------------------
 [ *Use this section to document your iterative exploration tasks. You should include inline code , observations and follow-on actions for each exploratory question. You may also want to capture follow-on questions that may arise from your observations. Keeping track of follow-on questions, will help your research endeavor to be as exhaustive as possible.* ]
 
+[ *Find relationships you didn't know about. Exploratory models are good for discovering new connections. They are also useful for defining future studies. Exploratory analyses are usually not the final say. Exploratory analyses alone should not be used for generalizing/predicting.* ]
+
 ### Question 1
 [ *Question text* ]
 
@@ -86,12 +88,53 @@ Exploratory Data Analysis
 **Action**: 
 [ *Based on current observations, what do you want to do next and why? Are there follow-on questions that you want to capture and address later?* ]
 
+Inferential Analysis
+----------------------------
+[ *Use a relatively small sample of data to say something about a bigger population. Inference is commonly the goal of statistical models. Inference involves estimating both the quantity you care about and your uncertainty about your estimate. Inference depends heavily on both the population and the sampling scheme.* ]
 
-Statistical prediction/modeling
+[ *Provide the inline code necessary for implementing the statistical models that you will use for your interential analysis.* ]
+
+**Observation**: 
+[ *Describe any findings and insights drawn from your statistical modeling.* ]
+
+**Action**: 
+[ *Based on current observations, what do you want to do next and why? Are there follow-on questions that you want to capture and address later?* ]
+
+Predictive Analysis
 ---------------------------------
+[ *Can your data be used on some objects to predict values for another object?
+Be careful, prediction if A can predict B, that does not mean A causes B. An accurate prediction depends heavily on measuring the right variables. Although there are better and worse prediction models, more data and a simple model works
+really well.* ]
+
 [ *Are there any standard statistical modeling processes that you would like to explore? If so, you will need to capture references for how and when such models should be applied as well as any assumptions you are making.* ]
 
-[ *Provide the inline code necessary for implementing the statistical model that you will use.* ]
+### Find the right data
+
+### Define your error rate
+
+### Prepare your prediction environment
+[ *Split data into: Training, Test (optional), Validation* ]
+
+### Using Training Set
+[ *Provide the inline code necessary for implementing the statistical prediction model.* ]
+
+**Observation**: 
+[ *Describe any findings and insights drawn from your statistical modeling.* ]
+
+**Action**: 
+[ *Based on current observations, what do you want to do next and why? Are there follow-on questions that you want to capture and address later?* ]
+
+### Using Test Set (optional)
+[ *Provide the inline code necessary for iteratively implementing and refining prediction model used on training set against the test set. The benefit here is that we can estimate the validation set accuracy with the test set. The approach is to Use the training set, split it into training/test sets, build a model on the training set, evaluate on the test set, repeat and average the estimated errors.* ]
+
+**Observation**: 
+[ *Describe any findings and insights drawn from your statistical modeling.* ]
+
+**Action**: 
+[ *Based on current observations, what do you want to do next and why? Are there follow-on questions that you want to capture and address later?* ]
+
+### Using Validation Set
+[ *Provide the inline code necessary for implementing the statistical model used on training set against, apply it just once to the validation set.* ]
 
 **Observation**: 
 [ *Describe any findings and insights drawn from your statistical modeling.* ]
