@@ -13,7 +13,7 @@ The `analysis of data <http://en.wikipedia.org/wiki/Data_analysis>`_ is a proces
 
 Researchers in these domains tend to organize their work differently and produce dissimilar artifacts. Yet each domain researcher is challenged with a very basic and important metric, **time-to-value**:
 
-* How much time is required to go from problem definition to action insights?
+* How much time is required to go from problem definition to actionable insights?
 * How much time is required to develop and package reproducible research?
 * How much time is required to synthesize research into a written artifact (report, proposal, etc)? 
 
